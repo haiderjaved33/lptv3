@@ -6,6 +6,7 @@ pandas
 numpy
 
 # Machine Learning and Utilities
+sklearn
 scikit-learn  # Contains all sklearn modules (model_selection, tree, linear_model, metrics)
 scipy
 ipywidgets  # Required for interactive notebook elements (often used with widgets)
@@ -27,3 +28,4 @@ joblib
 # IPython.display - Usually comes with ipywidgets/Jupyter dependencies, but listing the core library is safer:
 
 # ipython
+
