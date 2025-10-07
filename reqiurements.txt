@@ -14,8 +14,16 @@ ipywidgets  # Required for interactive notebook elements (often used with widget
 matplotlib
 seaborn
 
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+
 # Standard Python Library modules that DO NOT need to be included:
 # math - Built-in, no need to list.
 # os - Built-in, no need to list.
 # IPython.display - Usually comes with ipywidgets/Jupyter dependencies, but listing the core library is safer:
+
 # ipython
