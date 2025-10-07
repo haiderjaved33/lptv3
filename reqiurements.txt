@@ -1,0 +1,21 @@
+# Core Streamlit
+streamlit
+
+# Data Handling and Analysis
+pandas
+numpy
+
+# Machine Learning and Utilities
+scikit-learn  # Contains all sklearn modules (model_selection, tree, linear_model, metrics)
+scipy
+ipywidgets  # Required for interactive notebook elements (often used with widgets)
+
+# Visualization
+matplotlib
+seaborn
+
+# Standard Python Library modules that DO NOT need to be included:
+# math - Built-in, no need to list.
+# os - Built-in, no need to list.
+# IPython.display - Usually comes with ipywidgets/Jupyter dependencies, but listing the core library is safer:
+# ipython
