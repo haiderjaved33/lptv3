@@ -1,5 +1,6 @@
 # model_training.py
-import sklearn
+import scikit-learn
+
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.linear_model import Lasso
@@ -75,3 +76,4 @@ if __name__ == '__main__':
     #         print("\nModels trained.")
 
     pass # Placeholder as we don't have the data loading here directly
+
